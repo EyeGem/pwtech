@@ -6,6 +6,8 @@
 #include <memory.h>
 #include <string.h>
 
+#include <stdlib.h>
+
 #include "types/pw_array.h"
 #include "types/pw_cachemap.h"
 
