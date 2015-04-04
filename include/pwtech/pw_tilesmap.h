@@ -14,7 +14,6 @@
 
 #include <stdlib.h>
 
-
 //----------------------------------------------------------------
 
 typedef void (*TPWMapMixFunc)( void *dest, const void *src, int count, int level );
